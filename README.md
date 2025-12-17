@@ -17,7 +17,7 @@ module simple-system {
       type string;
       description "Le nom d'hôte de l'appareil.";
     }
-
+dfgdfg
     leaf domain-name {
       type string;
       description "Le nom de domaine de l'appareil.";
